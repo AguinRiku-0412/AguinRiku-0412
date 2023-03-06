@@ -37,3 +37,6 @@ Here are some ideas to get you started:
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=instagram,twitter,discord">
 </a>
+<br><br>
+<img src="https://digitaledgetech.in/images/Banner_02_new.gif">
+<hr>
