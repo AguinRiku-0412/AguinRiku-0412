@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="SNQ-2001" src="header.svg" width="98.2%" height="100%"><hr>
+<!--<img alt="SNQ-2001" src="header.svg" width="98.2%" height="100%"><hr>-->
 
 <h2>Languages and Tools</h2>
 <h3>Main Skills</h3>
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <br>
 
 <a href="https://honzaap.github.io/GithubCity/?name=AguinRiku-0412&year=2023">・City-2023</a>
-<br><br>
+<br>
 
 <img src="Logo.gif">
 
