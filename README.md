@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AguinRiku-0412&theme=tokyonight">
 
-<a href="https://github.com/anuraghazra/github-readme-status">
-  <img align="left" src="https://github-readme-status.vercel.app/api?username=AguinRiku-0412&count_private=true&theme=ocean_dark"/>
-  <img align="left" src="https://github-readme-status.vercel.app/api/top-langs/?username=AguinRiku-0412&theme=ocean_dark"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AguinRiku-0412&count_private=true&theme=ocean_dark"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AguinRiku-0412&theme=ocean_dark"/>
 </a>
