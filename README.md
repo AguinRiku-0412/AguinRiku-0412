@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 <hr>
 
 <h2>Status</h2>
-<a href="https://github.com/AguinRiku-0412/">
+<a href="https://github.com/AguinRiku-0412/AguinRiku-0412/">
   <img src="https://komarev.com/ghpvc/?username=AguinRiku-0412" alt="AguinRiku-0412"/>
 </a>
