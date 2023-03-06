@@ -40,3 +40,8 @@ Here are some ideas to get you started:
 <br><br>
 <img src="https://digitaledgetech.in/images/Banner_02_new.gif">
 <hr>
+
+<h2>Status</h2>
+<a href="https://github.com/AguinRiku-0412/">
+  <img src="https://komarev.com/ghpvc/?username=AguinRiku-0412" alt="AguinRiku-0412"/>
+</a>
