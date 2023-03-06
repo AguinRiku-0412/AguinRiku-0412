@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img alt="SNQ-2001" src="header.svg" width="98.2%" height="100%"><hr>
+
+<h2>Languages and Tools</h2>
+<h3>Main Skills</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,vue,cs,dotnet">
+</a>
