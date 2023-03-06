@@ -22,3 +22,18 @@ Here are some ideas to get you started:
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,vue,cs,dotnet">
 </a>
+
+<h3>Tools</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,eclipse,git,github,powershell,vim,unity">
+</a>
+
+<h3>RDBMS</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres">
+</a>
+
+<h3>Other</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=instagram,twitter,discord">
+</a>
